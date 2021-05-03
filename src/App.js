@@ -3,7 +3,7 @@ import Home from './Home';
 
 function App() {
   return (
-   <Home name="Mone't"/>
+   <Home name="Mone't" age="30"/>
   );
 }
 
